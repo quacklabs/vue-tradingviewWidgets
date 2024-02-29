@@ -5,6 +5,7 @@ import CryptoMarket from './components/CryptoMarket.vue'
 import EconomicCalendar from './components/EconomicCalendar.vue'
 import ForexCrossRates from './components/ForexCrossRates.vue'
 import ForexHeatMap from './components/ForexHeatMap.vue'
+import CryptoHeatMap from './components/CryptoHeatMap.vue'
 import FundamentalData from './components/FundamentalData.vue'
 import MarketData from './components/MarketData.vue'
 import MarketOverview from './components/MarketOverview.vue'
@@ -27,6 +28,7 @@ import TickerTape from './components/TickerTape.vue'
     <section><EconomicCalendar /></section>
     <section><ForexCrossRates /></section>
     <section><ForexHeatMap /></section>
+    <section><CryptoHeatMap /></section>
     <section><FundamentalData /></section>
     <section><MarketData /></section>
     <section><MarketOverview /></section>
