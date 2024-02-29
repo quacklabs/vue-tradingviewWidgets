@@ -73,7 +73,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/ehsan-shv/vue-tradingviewWidgets.git"
+        "url": "https://github.com/quacklabs/vue-tradingviewWidgets.git"
     },
     "publishConfig": {
         "access": "public"
